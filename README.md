@@ -1,1 +1,1 @@
-# Tee-0-repo
+to store and manage project files, code, documentation, and related resources. The repository should be set up with an appropriate structure and initial configuration, making it ready for collaboration and version control
